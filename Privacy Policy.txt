@@ -1,0 +1,29 @@
+Privacy Policy for RPS Competitive
+
+Effective Date: October 22, 2023
+
+Welcome to RPS Competitive! This Privacy Policy explains how we collect, use, and protect your personal information when you use our Discord bot and related services. By using our bot, you agree to the terms outlined in this Privacy Policy. If you do not agree with these terms, please refrain from using the bot.
+
+1. Information We Collect
+
+We may collect the following types of information from users:
+
+Discord User Information: When you use RPS Competitive, we may access and store your Discord user ID.
+
+2. How We Use Your Information
+
+We use the collected information for the following purposes:
+
+Gameplay: We use your Discord user information to enable you to play the rock-paper-scissors game with other users and to store statistics for our global leaderboard.
+
+3. Changes to the Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes in our data practices. Any changes will be posted, and it is your responsibility to review the updated Privacy Policy.
+
+4. Contact Us
+
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at dymtim on Discord.
+
+By using RPS Competitive, you acknowledge and agree to the terms outlined in this Privacy Policy. Please make sure you understand and agree to these terms before using our bot. Thank you for using our Discord bot and enjoy playing rock-paper-scissors!
+
+DymTim
